@@ -6,5 +6,5 @@ An art/photography application that allows user to auction art works and buy fro
 ![homepage](/homepage.PNG "Image of the Homepage")
 
 ### Technology Used
-React JS
-Tailwind CSS
+* React JS
+* Tailwind CSS
