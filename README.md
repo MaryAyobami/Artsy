@@ -1,4 +1,4 @@
 
 Image of the homepage
 
-![homepage](/homepage.PNG "Homepage")
+![homepage](./homepage.PNG "Homepage")
